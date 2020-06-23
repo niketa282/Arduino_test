@@ -1,4 +1,4 @@
-#define INPUT_PIN A0
+#define INPUT_PIN A1 //changed to A1
 #define LED_BUILT_IN 13
 int threshold=15;
 void setup() {
