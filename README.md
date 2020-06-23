@@ -1,2 +1,2 @@
 # Arduino_test
-Test module for Photoresistor
+Test module for Photoresistor (updated)
